@@ -1,0 +1,15 @@
+F:\visual studio 2015\Projects\Mobile\To_Do_List\To_Do_List\obj\Release\android\assets\To_Do_List.dll
+F:\visual studio 2015\Projects\Mobile\To_Do_List\To_Do_List\obj\Release\android\assets\Java.Interop.dll
+F:\visual studio 2015\Projects\Mobile\To_Do_List\To_Do_List\obj\Release\android\assets\Microsoft.CSharp.dll
+F:\visual studio 2015\Projects\Mobile\To_Do_List\To_Do_List\obj\Release\android\assets\Mono.Android.dll
+F:\visual studio 2015\Projects\Mobile\To_Do_List\To_Do_List\obj\Release\android\assets\mscorlib.dll
+F:\visual studio 2015\Projects\Mobile\To_Do_List\To_Do_List\obj\Release\android\assets\System.Core.dll
+F:\visual studio 2015\Projects\Mobile\To_Do_List\To_Do_List\obj\Release\android\assets\System.dll
+F:\visual studio 2015\Projects\Mobile\To_Do_List\To_Do_List\obj\Release\android\assets\System.Net.Http.dll
+F:\visual studio 2015\Projects\Mobile\To_Do_List\To_Do_List\obj\Release\android\assets\System.Xml.dll
+F:\visual studio 2015\Projects\Mobile\To_Do_List\To_Do_List\obj\Release\android\assets\System.Xml.Linq.dll
+F:\visual studio 2015\Projects\Mobile\To_Do_List\To_Do_List\obj\Release\android\assets\Newtonsoft.Json.dll
+F:\visual studio 2015\Projects\Mobile\To_Do_List\To_Do_List\obj\Release\android\assets\Mono.CSharp.dll
+F:\visual studio 2015\Projects\Mobile\To_Do_List\To_Do_List\obj\Release\android\assets\System.Runtime.Serialization.dll
+F:\visual studio 2015\Projects\Mobile\To_Do_List\To_Do_List\obj\Release\android\assets\Mono.Security.dll
+F:\visual studio 2015\Projects\Mobile\To_Do_List\To_Do_List\obj\Release\android\assets\System.Numerics.dll
